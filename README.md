@@ -24,7 +24,7 @@ Sou Kauan Ribeiro, de **Sorocaba/SP**, e curso **Análise e Desenvolvimento de S
 
 Tenho experiência em **operações digitais**, na área de **e-commerce e marketplaces**. Aqui compartilho meus projetos acadêmicos e estudos em programação, dados e IA generativa.
 
-Meus projetos incluem um sistema de controle de estoque em Python e um dashboard de produção com IA, desenvolvidos no contexto de cursos da UNIP e do SENAI.
+No primeiro semestre da UNIP, participei de um projeto em grupo para controlar estoque e vendas em **Python**. No segundo, desenvolvemos em **C** uma agenda de barbearia que considera a duração de cada serviço. No SENAI, trabalhei em um dashboard de produção com IA.
 
 ## Formação
 
@@ -35,6 +35,7 @@ Meus projetos incluem um sistema de controle de estoque em Python e um dashboard
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
 </p>
@@ -43,8 +44,9 @@ Meus projetos incluem um sistema de controle de estoque em Python e um dashboard
 
 | Projeto | O que faz | Contexto |
 | --- | --- | --- |
+| [💈 Agendamento de barbearia em C](https://github.com/Kauanribeiro015/agendamento-barbearia-c-pim-unip) | Agenda serviços, bloqueia horários que se sobrepõem para o cliente ou o barbeiro e salva as reservas em arquivos locais. | PIM II da UNIP · 2º semestre |
+| [📦 Controle de estoque em Python](https://github.com/Kauanribeiro015/controle-estoque-python-pim-unip) | Registra vendas pelo terminal, atualiza o saldo de cada produto e avisa quando o estoque é insuficiente. | PIM I da UNIP · 1º semestre |
 | [📊 Dashboard de produção com IA](https://github.com/Kauanribeiro015/dashboard-producao-ia-senai) | Apresenta indicadores e gráficos de produção, com um chat para consultar dados fictícios. | Projeto final de curso do SENAI |
-| [📦 Controle de estoque em Python](https://github.com/Kauanribeiro015/controle-estoque-python-pim-unip) | Permite cadastrar produtos, consultar o estoque e registrar vendas pelo terminal. | Projeto acadêmico da UNIP |
 
 Cada repositório contém uma descrição do projeto e instruções para executar.
 
